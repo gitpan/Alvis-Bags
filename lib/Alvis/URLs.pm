@@ -1,6 +1,6 @@
 package Alvis::URLs;
 
-$Alvis::URLs::VERSION = '0.2.1';
+$Alvis::URLs::VERSION = '0.3';
 
 ###################### CONFIGURATION #####################
 

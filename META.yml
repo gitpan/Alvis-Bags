@@ -1,7 +1,7 @@
 # http://module-build.sourceforge.net/META-spec.html
 #XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
 name:         Alvis-Bags
-version:      0.2.1
+version:      0.3
 version_from: lib/Alvis/URLs.pm
 installdirs:  site
 requires:
