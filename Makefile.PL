@@ -4,7 +4,7 @@ use ExtUtils::MakeMaker;
 WriteMakefile(
     NAME         => 'Alvis-Bags',
     VERSION_FROM => 'lib/Alvis/URLs.pm', # finds \$VERSION
-    AUTHOR       => 'Wray Buntine (a.u.thor@a.galaxy.far.far.away)',
+    AUTHOR       => 'Wray Buntine',
     ABSTRACT     => 'Simple bag generation and control scripts for MPCA for text and links',
     PREREQ_PM    => {HTML::Entities => 0, Encode => 0, Getopt::Long => 0,
 		     Pod::Usage => 0, IO::Handle => 0, POSIX => 0,
